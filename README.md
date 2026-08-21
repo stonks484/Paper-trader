@@ -1,35 +1,57 @@
 # AI Small-Cap Paper Trader
 
-A free-first research and paper-trading platform for US small-cap equities. It is designed around professional-style controls: universe construction, catalyst scoring, technical regime detection, liquidity/slippage checks, position sizing, portfolio risk, daily loss limits, trade journaling, and backtesting.
+A **free-first, paper-only** research and trading simulation platform for US small-cap equities. It is designed with professional-style controls without requiring a paid market-data subscription.
 
-## Important
-This repository is **paper trading only**. It cannot place live Trading 212 orders. The Trading 212 API should only be connected after the strategy has been independently validated.
+## Data architecture — no Massive, no paid API
 
-## Free-first data design
-The default adapter supports Massive's free Stocks Basic plan. That plan currently provides US ticker/reference data, corporate actions, technical indicators and minute aggregates, but only 5 API calls/minute and not real-time trades/quotes. Therefore this project deliberately labels data as `FREE_DELAYED` when it is not live and never pretends delayed data is real-time. See https://massive.com/pricing.
+- **Nasdaq Trader public symbol directory** — US-listed symbol universe.
+- **Yahoo Finance via `yfinance`** — historical OHLCV and available intraday bars for research.
+- **SEC EDGAR** — public submissions and filing metadata for catalyst and dilution-risk detection.
+- Technical indicators are calculated locally.
 
-For catalyst research the platform can also consume public SEC EDGAR submissions/XBRL and public RSS feeds without a paid news terminal. Paid real-time feeds can be added later but are not required to develop or paper-test the system.
+The application deliberately labels Yahoo data as delayed/research data. It does **not** claim to be an exchange-grade real-time feed.
 
-## Features
-- Small-cap universe filters (exchange, market cap, price, float, volume)
-- Premarket / regular-session / after-hours session awareness
-- Momentum, relative volume, VWAP, ATR, EMA, RSI and breakout features
-- Catalyst classifier with dilution/offering/reverse-split risk penalties
-- Composite signal score and confidence
-- Spread/liquidity/slippage guardrails
-- ATR/structure-based stops and multiple profit targets
-- Risk-based position sizing
-- Portfolio heat, max positions, sector/exposure controls
-- Daily loss kill switch and circuit breakers
-- SQLite trade journal and equity curve
-- Paper order lifecycle: pending -> filled -> partial/closed
-- Backtest engine with fees/slippage assumptions
-- Walk-forward-friendly signal logging
-- REST API and mobile-friendly dashboard
-- Audit/event log for every decision
-- Configurable strategy; no hard-coded account credentials
+## Strategy
 
-## Quick start
+- Small-cap-oriented price/liquidity universe filters
+- Gap and momentum pre-filter
+- Relative volume (RVOL)
+- EMA 9/20/50 trend structure
+- VWAP
+- RSI
+- ATR
+- 20-bar breakout
+- Catalyst scoring
+- SEC filing classification
+- Strong penalties for offerings, ATM programs, convertibles, warrants, dilution, reverse splits and going-concern risk
+- Composite 0–100 signal score
+- Confidence score
+- ATR-based stop and 1.5R/3R targets
+
+## Risk engine
+
+- Starting equity: $1,000
+- Risk per trade: 0.5%
+- Maximum position: 10%
+- Maximum portfolio heat: 2%
+- Maximum open positions: 5
+- Daily loss limit: 2%
+- Maximum assumed slippage: 1%
+- Minimum price: $1
+- Maximum price: $20
+- Minimum average volume: 100,000 shares
+
+These are research defaults and can be changed through environment variables.
+
+## Paper execution
+
+The broker is simulation-only. It supports paper buys/sells, stops, targets, position sizing, portfolio state and a trade journal. **No Trading 212 credentials or live order functionality is present.**
+
+## GitHub Pages
+
+The Pages dashboard is a static front-end. GitHub Actions runs the research engine and updates repository state on a schedule. GitHub scheduled workflows have a minimum interval of five minutes, but scheduled jobs can be delayed under GitHub load, so this is not a low-latency trading system.
+
+## Local setup
 
 ```bash
 python -m venv .venv
@@ -37,27 +59,24 @@ python -m venv .venv
 # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
-python -m app.main
+```
+
+Set a descriptive SEC User-Agent, for example:
+
+```text
+SEC_USER_AGENT=YourName your-email@example.com
+```
+
+Then:
+
+```bash
+uvicorn app.main:app --host 0.0.0.0 --port 8000
 ```
 
 Open `http://127.0.0.1:8000`.
 
-### Data key
-Create a free Massive account and put the API key in `.env` as `MASSIVE_API_KEY`. The free tier is rate limited, so use a sensible refresh interval (default 60 seconds) and avoid claiming tick-level execution.
+## Important limitations
 
-### Optional SEC data
-SEC endpoints are public and require a descriptive User-Agent. Set `SEC_USER_AGENT` in `.env` to something like `YourName your-email@example.com`.
+Free public data cannot reproduce a professional exchange feed, Level 2/order book, NBBO or premium news terminal. The platform therefore prioritizes **research integrity**: every data limitation is surfaced rather than hidden, and no live-trading claims are made.
 
-## Risk defaults
-- Starting equity: $1,000
-- Risk per trade: 0.5%
-- Maximum position: 10%
-- Maximum portfolio heat: 2%
-- Maximum open positions: 5
-- Daily loss limit: 2%
-- Maximum slippage assumption: 1%
-- Minimum price: $1
-- Maximum price: $20
-- Small-cap ceiling: $2B
-
-These are research defaults, not financial advice.
+This is software for research and paper trading, not financial advice.
