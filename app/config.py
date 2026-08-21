@@ -5,15 +5,14 @@ load_dotenv()
 
 def f(name, default):
     try: return float(os.getenv(name, default))
-    except: return float(default)
+    except Exception: return float(default)
 
 def i(name, default):
     try: return int(os.getenv(name, default))
-    except: return int(default)
+    except Exception: return int(default)
 
 @dataclass(frozen=True)
 class Settings:
-    massive_key: str = os.getenv('MASSIVE_API_KEY','').strip()
     sec_user_agent: str = os.getenv('SEC_USER_AGENT','SmallCapPaperTrader/1.0 contact@example.com')
     starting_equity: float = f('STARTING_EQUITY',1000)
     risk_per_trade: float = f('RISK_PER_TRADE',0.005)
@@ -26,6 +25,10 @@ class Settings:
     max_price: float = f('MAX_PRICE',20)
     small_cap_max: float = f('SMALL_CAP_MAX',2_000_000_000)
     min_avg_volume: float = f('MIN_AVG_VOLUME',100_000)
-    refresh_seconds: int = max(15,i('REFRESH_SECONDS',60))
+    min_rvol: float = f('MIN_RVOL',1.5)
+    min_score: float = f('MIN_SCORE',70)
+    max_spread_pct: float = f('MAX_SPREAD_PCT',1.5)
+    universe_batch: int = i('UNIVERSE_BATCH',80)
+    refresh_seconds: int = max(300,i('REFRESH_SECONDS',300))
 
-settings = Settings()
+settings=Settings()
