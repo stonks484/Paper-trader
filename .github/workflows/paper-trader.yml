@@ -1,22 +1,42 @@
 name: Paper Trader Engine
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'
+    # GitHub's shortest supported scheduled interval is 5 minutes.
+    - cron: '7-59/5 * * * *'
+
 permissions:
   contents: write
+
+concurrency:
+  group: paper-trader-engine
+  cancel-in-progress: true
+
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install -r requirements.txt
-      - name: Run paper trader
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run paper engine
         env:
           SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+          STARTING_CASH: '1000'
+          RISK_PER_TRADE: '0.005'
+          MAX_POSITION: '0.10'
+          MAX_DAILY_LOSS: '0.02'
+          MAX_OPEN_POSITIONS: '5'
+          MIN_SCORE: '70'
+          UNIVERSE_SIZE: '80'
         run: python engine.py
       - name: Publish state
         run: |
