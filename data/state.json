@@ -63,7 +63,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-22T18:02:01.044965+00:00"
+      "timestamp": "2026-08-22T19:04:04.552409+00:00"
     },
     {
       "ticker": "AARD",
@@ -82,7 +82,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-22T18:02:00.853494+00:00"
+      "timestamp": "2026-08-22T19:04:04.426907+00:00"
     },
     {
       "ticker": "ABUS",
@@ -101,7 +101,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-22T18:02:00.335344+00:00"
+      "timestamp": "2026-08-22T19:04:04.165741+00:00"
     },
     {
       "ticker": "ABOS",
@@ -120,7 +120,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-22T18:02:00.675959+00:00"
+      "timestamp": "2026-08-22T19:04:04.343260+00:00"
     },
     {
       "ticker": "ABTC",
@@ -139,7 +139,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-22T18:02:00.507520+00:00"
+      "timestamp": "2026-08-22T19:04:04.258717+00:00"
     },
     {
       "ticker": "ABTS",
@@ -158,10 +158,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-22T18:02:01.221860+00:00"
+      "timestamp": "2026-08-22T19:04:04.635930+00:00"
     }
   ],
-  "updated": "2026-08-22T18:02:01.221897+00:00",
+  "updated": "2026-08-22T19:04:04.635966+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
