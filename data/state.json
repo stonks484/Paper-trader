@@ -81,7 +81,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-24T20:59:07.172829+00:00"
+      "timestamp": "2026-08-24T21:59:03.319865+00:00"
     },
     {
       "ticker": "ABUS",
@@ -100,7 +100,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-24T20:59:07.072940+00:00"
+      "timestamp": "2026-08-24T21:59:03.207546+00:00"
     },
     {
       "ticker": "AADX",
@@ -119,10 +119,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-24T20:59:07.274452+00:00"
+      "timestamp": "2026-08-24T21:59:03.415393+00:00"
     }
   ],
-  "updated": "2026-08-24T20:59:07.274501+00:00",
+  "updated": "2026-08-24T21:59:03.415428+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
