@@ -144,7 +144,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T21:57:48.326376+00:00"
+      "timestamp": "2026-08-25T23:02:22.210150+00:00"
     },
     {
       "ticker": "ABTC",
@@ -163,7 +163,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T21:57:48.492410+00:00"
+      "timestamp": "2026-08-25T23:02:22.368061+00:00"
     },
     {
       "ticker": "ABCL",
@@ -182,7 +182,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T21:57:48.877738+00:00"
+      "timestamp": "2026-08-25T23:02:22.650195+00:00"
     },
     {
       "ticker": "AARD",
@@ -201,7 +201,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T21:57:48.696253+00:00"
+      "timestamp": "2026-08-25T23:02:22.516861+00:00"
     },
     {
       "ticker": "AAOX",
@@ -220,7 +220,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T21:57:49.221518+00:00"
+      "timestamp": "2026-08-25T23:02:22.922796+00:00"
     },
     {
       "ticker": "ABSI",
@@ -239,7 +239,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T21:57:49.048924+00:00"
+      "timestamp": "2026-08-25T23:02:22.745129+00:00"
     },
     {
       "ticker": "AAOG",
@@ -258,7 +258,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T21:57:49.388190+00:00"
+      "timestamp": "2026-08-25T23:02:23.048477+00:00"
     },
     {
       "ticker": "ABUS",
@@ -277,10 +277,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T21:57:48.160839+00:00"
+      "timestamp": "2026-08-25T23:02:22.049610+00:00"
     }
   ],
-  "updated": "2026-08-25T21:57:49.388233+00:00",
+  "updated": "2026-08-25T23:02:23.048523+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
