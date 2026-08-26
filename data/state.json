@@ -135,7 +135,7 @@
       "confidence": 100.0,
       "rvol": 5.37,
       "rsi": 65.0,
-      "vwap": 2.4612,
+      "vwap": 2.4611,
       "atr": 0.052,
       "stop": 2.522,
       "target1": 2.717,
@@ -144,7 +144,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T23:55:14.604783+00:00"
+      "timestamp": "2026-08-26T03:34:48.456916+00:00"
     },
     {
       "ticker": "ABTC",
@@ -152,9 +152,9 @@
       "change_pct": 0.32,
       "score": 100,
       "confidence": 96.4,
-      "rvol": 5.12,
+      "rvol": 5.16,
       "rsi": 53.1,
-      "vwap": 8.3355,
+      "vwap": 8.335,
       "atr": 0.1846,
       "stop": 8.9524,
       "target1": 9.6446,
@@ -163,7 +163,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T23:55:14.695408+00:00"
+      "timestamp": "2026-08-26T03:34:48.626322+00:00"
     },
     {
       "ticker": "ABCL",
@@ -182,7 +182,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T23:55:14.999786+00:00"
+      "timestamp": "2026-08-26T03:34:48.811101+00:00"
     },
     {
       "ticker": "AARD",
@@ -190,9 +190,9 @@
       "change_pct": -0.21,
       "score": 87.0,
       "confidence": 87.0,
-      "rvol": 4.47,
+      "rvol": 4.48,
       "rsi": 65.0,
-      "vwap": 6.5369,
+      "vwap": 6.5368,
       "atr": 0.1444,
       "stop": 7.0034,
       "target1": 7.5449,
@@ -201,7 +201,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T23:55:14.913223+00:00"
+      "timestamp": "2026-08-26T03:34:48.716867+00:00"
     },
     {
       "ticker": "AAOX",
@@ -220,7 +220,26 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T23:55:15.288283+00:00"
+      "timestamp": "2026-08-26T03:34:48.984865+00:00"
+    },
+    {
+      "ticker": "AAOG",
+      "price": 2.815,
+      "change_pct": 0.18,
+      "score": 60.4,
+      "confidence": 57.0,
+      "rvol": 1.84,
+      "rsi": 53.8,
+      "vwap": 3.2777,
+      "atr": 0.0563,
+      "stop": 2.7306,
+      "target1": 2.9417,
+      "target2": 3.0684,
+      "sec_risk": 0,
+      "sec_items": [],
+      "data_status": "DELAYED_RESEARCH",
+      "small_cap_status": "UNVERIFIED_FREE_DATA",
+      "timestamp": "2026-08-26T03:34:49.080615+00:00"
     },
     {
       "ticker": "ABSI",
@@ -239,26 +258,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T23:55:15.194121+00:00"
-    },
-    {
-      "ticker": "AAOG",
-      "price": 2.815,
-      "change_pct": 0.18,
-      "score": 52.0,
-      "confidence": 48.7,
-      "rvol": 0.21,
-      "rsi": 53.8,
-      "vwap": 3.2249,
-      "atr": 0.0563,
-      "stop": 2.7306,
-      "target1": 2.9417,
-      "target2": 3.0684,
-      "sec_risk": 0,
-      "sec_items": [],
-      "data_status": "DELAYED_RESEARCH",
-      "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T23:55:15.395337+00:00"
+      "timestamp": "2026-08-26T03:34:48.899704+00:00"
     },
     {
       "ticker": "ABUS",
@@ -277,10 +277,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-25T23:55:14.505903+00:00"
+      "timestamp": "2026-08-26T03:34:48.363897+00:00"
     }
   ],
-  "updated": "2026-08-25T23:55:15.395383+00:00",
+  "updated": "2026-08-26T03:34:49.080659+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
