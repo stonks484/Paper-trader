@@ -2,10 +2,10 @@
   "mode": "PAPER",
   "enabled": true,
   "starting_cash": 1000.0,
-  "cash": 498.65013533000007,
-  "equity": 998.24,
+  "cash": 588.4333273300001,
+  "equity": 988.2,
   "day_start_equity": 1000.0,
-  "daily_loss_pct": 0.18,
+  "daily_loss_pct": 1.18,
   "positions": {
     "ABAT": {
       "qty": 38.5662,
@@ -46,16 +46,6 @@
       "partial": false,
       "score": 100,
       "opened": "2026-08-25T20:03:58.139607+00:00"
-    },
-    "AAME": {
-      "qty": 63.2276,
-      "entry": 1.5788,
-      "stop": 1.5314,
-      "target1": 1.6498,
-      "target2": 1.7209,
-      "partial": false,
-      "score": 76.7,
-      "opened": "2026-08-28T01:30:51.888464+00:00"
     }
   },
   "trades": [
@@ -141,49 +131,39 @@
       "price": 1.5788,
       "score": 76.7,
       "time": "2026-08-28T01:30:51.888468+00:00"
+    },
+    {
+      "side": "SELL",
+      "ticker": "AAME",
+      "qty": 63.2276,
+      "price": 1.42,
+      "pnl": -10.04,
+      "reason": "stop_loss",
+      "time": "2026-08-28T21:54:29.501902+00:00"
     }
   ],
   "signals": [
     {
       "ticker": "AAME",
-      "price": 1.5788,
-      "change_pct": 1.21,
-      "score": 76.7,
-      "confidence": 76.6,
-      "rvol": 2.47,
-      "rsi": 64.4,
-      "vwap": 1.4279,
-      "atr": 0.0316,
-      "stop": 1.5314,
-      "target1": 1.6498,
-      "target2": 1.7209,
+      "price": 1.42,
+      "change_pct": 0.0,
+      "score": 65.0,
+      "confidence": 62.6,
+      "rvol": 3.5,
+      "rsi": 57.2,
+      "vwap": 1.4428,
+      "atr": 0.0284,
+      "stop": 1.3774,
+      "target1": 1.4839,
+      "target2": 1.5478,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-28T01:30:51.725031+00:00"
-    },
-    {
-      "ticker": "ABTC",
-      "price": 8.745,
-      "change_pct": 0.23,
-      "score": 43.0,
-      "confidence": 31.1,
-      "rvol": 2.6,
-      "rsi": 25.5,
-      "vwap": 8.517,
-      "atr": 0.1749,
-      "stop": 8.4826,
-      "target1": 9.1385,
-      "target2": 9.532,
-      "sec_risk": 0,
-      "sec_items": [],
-      "data_status": "DELAYED_RESEARCH",
-      "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-28T01:30:51.888436+00:00"
+      "timestamp": "2026-08-28T21:54:29.501876+00:00"
     }
   ],
-  "updated": "2026-08-28T01:30:51.888474+00:00",
+  "updated": "2026-08-28T21:54:29.501920+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
