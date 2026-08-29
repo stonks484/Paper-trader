@@ -151,7 +151,7 @@
       "confidence": 62.7,
       "rvol": 3.5,
       "rsi": 57.2,
-      "vwap": 1.4426,
+      "vwap": 1.4427,
       "atr": 0.0284,
       "stop": 1.3774,
       "target1": 1.4839,
@@ -160,7 +160,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-29T08:16:37.343802+00:00"
+      "timestamp": "2026-08-29T08:23:37.315325+00:00"
     },
     {
       "ticker": "ABTC",
@@ -179,10 +179,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-29T08:16:37.425761+00:00"
+      "timestamp": "2026-08-29T08:23:37.539502+00:00"
     }
   ],
-  "updated": "2026-08-29T08:16:37.425794+00:00",
+  "updated": "2026-08-29T08:23:37.539539+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
