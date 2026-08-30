@@ -160,10 +160,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-30T04:30:30.652447+00:00"
+      "timestamp": "2026-08-30T04:37:28.704702+00:00"
     }
   ],
-  "updated": "2026-08-30T04:30:30.652476+00:00",
+  "updated": "2026-08-30T04:37:28.704738+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
