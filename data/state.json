@@ -230,26 +230,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:23:43.858547+00:00"
-    },
-    {
-      "ticker": "AARD",
-      "price": 6.1,
-      "change_pct": -0.89,
-      "score": 77.0,
-      "confidence": 76.3,
-      "rvol": 4.62,
-      "rsi": 62.5,
-      "vwap": 6.3917,
-      "atr": 0.122,
-      "stop": 5.917,
-      "target1": 6.3745,
-      "target2": 6.649,
-      "sec_risk": 0,
-      "sec_items": [],
-      "data_status": "DELAYED_RESEARCH",
-      "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:23:43.954054+00:00"
+      "timestamp": "2026-08-31T21:30:31.000530+00:00"
     },
     {
       "ticker": "ABSI",
@@ -268,7 +249,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:23:43.687357+00:00"
+      "timestamp": "2026-08-31T21:30:30.799298+00:00"
     },
     {
       "ticker": "AADX",
@@ -278,7 +259,7 @@
       "confidence": 55.5,
       "rvol": 3.59,
       "rsi": 50.0,
-      "vwap": 13.6379,
+      "vwap": 13.7609,
       "atr": 0.264,
       "stop": 12.804,
       "target1": 13.794,
@@ -287,7 +268,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:23:43.587795+00:00"
+      "timestamp": "2026-08-31T21:30:30.670686+00:00"
     },
     {
       "ticker": "AAPD",
@@ -295,7 +276,7 @@
       "change_pct": 0.0,
       "score": 42.0,
       "confidence": 31.5,
-      "rvol": 6.92,
+      "rvol": 6.89,
       "rsi": 30.1,
       "vwap": 11.0642,
       "atr": 0.2198,
@@ -306,7 +287,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:23:43.488086+00:00"
+      "timestamp": "2026-08-31T21:30:30.598775+00:00"
     },
     {
       "ticker": "ABTS",
@@ -316,7 +297,7 @@
       "confidence": 20.0,
       "rvol": 0.39,
       "rsi": 41.7,
-      "vwap": 1.4072,
+      "vwap": 1.4071,
       "atr": 0.0298,
       "stop": 1.4453,
       "target1": 1.5571,
@@ -325,10 +306,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:23:43.762942+00:00"
+      "timestamp": "2026-08-31T21:30:30.896669+00:00"
     }
   ],
-  "updated": "2026-08-31T21:23:43.954095+00:00",
+  "updated": "2026-08-31T21:30:31.000568+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
