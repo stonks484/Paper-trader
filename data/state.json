@@ -151,7 +151,7 @@
       "confidence": 62.7,
       "rvol": 3.5,
       "rsi": 57.2,
-      "vwap": 1.4427,
+      "vwap": 1.4426,
       "atr": 0.0284,
       "stop": 1.3774,
       "target1": 1.4839,
@@ -160,10 +160,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T06:47:47.506210+00:00"
+      "timestamp": "2026-08-31T06:54:44.736838+00:00"
     }
   ],
-  "updated": "2026-08-31T06:47:47.506240+00:00",
+  "updated": "2026-08-31T06:54:44.736872+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
