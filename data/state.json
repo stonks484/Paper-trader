@@ -230,7 +230,26 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:30:31.000530+00:00"
+      "timestamp": "2026-08-31T21:37:32.298678+00:00"
+    },
+    {
+      "ticker": "AARD",
+      "price": 6.1,
+      "change_pct": -0.89,
+      "score": 77.0,
+      "confidence": 76.3,
+      "rvol": 4.62,
+      "rsi": 62.5,
+      "vwap": 6.3917,
+      "atr": 0.122,
+      "stop": 5.917,
+      "target1": 6.3745,
+      "target2": 6.649,
+      "sec_risk": 0,
+      "sec_items": [],
+      "data_status": "DELAYED_RESEARCH",
+      "small_cap_status": "UNVERIFIED_FREE_DATA",
+      "timestamp": "2026-08-31T21:37:32.381681+00:00"
     },
     {
       "ticker": "ABSI",
@@ -249,7 +268,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:30:30.799298+00:00"
+      "timestamp": "2026-08-31T21:37:32.130014+00:00"
     },
     {
       "ticker": "AADX",
@@ -268,7 +287,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:30:30.670686+00:00"
+      "timestamp": "2026-08-31T21:37:32.003796+00:00"
     },
     {
       "ticker": "AAPD",
@@ -287,7 +306,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:30:30.598775+00:00"
+      "timestamp": "2026-08-31T21:37:31.910417+00:00"
     },
     {
       "ticker": "ABTS",
@@ -297,7 +316,7 @@
       "confidence": 20.0,
       "rvol": 0.39,
       "rsi": 41.7,
-      "vwap": 1.4071,
+      "vwap": 1.4072,
       "atr": 0.0298,
       "stop": 1.4453,
       "target1": 1.5571,
@@ -306,10 +325,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T21:30:30.896669+00:00"
+      "timestamp": "2026-08-31T21:37:32.210587+00:00"
     }
   ],
-  "updated": "2026-08-31T21:30:31.000568+00:00",
+  "updated": "2026-08-31T21:37:32.381720+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
