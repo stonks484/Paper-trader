@@ -2,10 +2,10 @@
   "mode": "PAPER",
   "enabled": true,
   "starting_cash": 1000.0,
-  "cash": 489.61365233000015,
-  "equity": 991.6,
+  "cash": 541.4087923300001,
+  "equity": 992.97,
   "day_start_equity": 1000.0,
-  "daily_loss_pct": 0.84,
+  "daily_loss_pct": 0.7,
   "positions": {
     "ABAT": {
       "qty": 38.5662,
@@ -48,12 +48,12 @@
       "opened": "2026-08-25T20:03:58.139607+00:00"
     },
     "ABTS": {
-      "qty": 68.1515,
+      "qty": 34.07575,
       "entry": 1.45,
-      "stop": 1.4065,
+      "stop": 1.45,
       "target1": 1.5153,
       "target2": 1.5805,
-      "partial": false,
+      "partial": true,
       "score": 75.0,
       "opened": "2026-08-31T14:37:44.717435+00:00"
     }
@@ -158,30 +158,39 @@
       "price": 1.45,
       "score": 75.0,
       "time": "2026-08-31T14:37:44.717440+00:00"
+    },
+    {
+      "side": "SELL",
+      "ticker": "ABTS",
+      "qty": 34.0757,
+      "price": 1.52,
+      "pnl": 2.39,
+      "reason": "target1",
+      "time": "2026-08-31T15:23:24.472068+00:00"
     }
   ],
   "signals": [
     {
       "ticker": "ABTS",
-      "price": 1.5,
-      "change_pct": 1.35,
-      "score": 62.0,
-      "confidence": 58.7,
-      "rvol": 0.51,
-      "rsi": 76.2,
-      "vwap": 1.3863,
-      "atr": 0.0336,
-      "stop": 1.4497,
-      "target1": 1.5755,
-      "target2": 1.651,
+      "price": 1.52,
+      "change_pct": 1.33,
+      "score": 75.0,
+      "confidence": 71.4,
+      "rvol": 0.08,
+      "rsi": 77.0,
+      "vwap": 1.3917,
+      "atr": 0.0343,
+      "stop": 1.4686,
+      "target1": 1.5971,
+      "target2": 1.6743,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T15:16:30.002017+00:00"
+      "timestamp": "2026-08-31T15:23:24.472039+00:00"
     }
   ],
-  "updated": "2026-08-31T15:16:30.002051+00:00",
+  "updated": "2026-08-31T15:23:24.472086+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
