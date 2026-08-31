@@ -143,7 +143,7 @@
     }
   ],
   "signals": [],
-  "updated": "2026-08-31T13:51:32.759360+00:00",
+  "updated": "2026-08-31T13:58:21.202950+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
