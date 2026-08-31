@@ -187,29 +187,29 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T17:57:46.180577+00:00"
+      "timestamp": "2026-08-31T18:09:27.726034+00:00"
     },
     {
       "ticker": "AAPD",
-      "price": 11.055,
-      "change_pct": 0.0,
+      "price": 11.05,
+      "change_pct": -0.05,
       "score": 17.0,
-      "confidence": 6.7,
-      "rvol": 0.01,
-      "rsi": 30.6,
+      "confidence": 6.5,
+      "rvol": 0.0,
+      "rsi": 30.0,
       "vwap": 11.0689,
-      "atr": 0.2211,
-      "stop": 10.7234,
-      "target1": 11.5525,
-      "target2": 12.05,
+      "atr": 0.221,
+      "stop": 10.7185,
+      "target1": 11.5473,
+      "target2": 12.0445,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T17:57:46.083617+00:00"
+      "timestamp": "2026-08-31T18:09:27.628535+00:00"
     }
   ],
-  "updated": "2026-08-31T17:57:46.180612+00:00",
+  "updated": "2026-08-31T18:09:27.726067+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
