@@ -214,6 +214,25 @@
   ],
   "signals": [
     {
+      "ticker": "ABAT",
+      "price": 2.71,
+      "change_pct": 0.04,
+      "score": 93.9,
+      "confidence": 90.2,
+      "rvol": 2.89,
+      "rsi": 77.3,
+      "vwap": 2.6081,
+      "atr": 0.0542,
+      "stop": 2.6287,
+      "target1": 2.832,
+      "target2": 2.9539,
+      "sec_risk": 0,
+      "sec_items": [],
+      "data_status": "DELAYED_RESEARCH",
+      "small_cap_status": "UNVERIFIED_FREE_DATA",
+      "timestamp": "2026-08-31T20:59:36.257034+00:00"
+    },
+    {
       "ticker": "ABSI",
       "price": 9.025,
       "change_pct": 0.11,
@@ -230,7 +249,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T20:52:39.888706+00:00"
+      "timestamp": "2026-08-31T20:59:36.085210+00:00"
     },
     {
       "ticker": "AADX",
@@ -249,7 +268,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T20:52:39.793383+00:00"
+      "timestamp": "2026-08-31T20:59:35.984433+00:00"
     },
     {
       "ticker": "AAPD",
@@ -257,7 +276,7 @@
       "change_pct": 0.0,
       "score": 42.0,
       "confidence": 31.5,
-      "rvol": 6.89,
+      "rvol": 6.92,
       "rsi": 30.1,
       "vwap": 11.0642,
       "atr": 0.2198,
@@ -268,7 +287,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T20:52:39.705165+00:00"
+      "timestamp": "2026-08-31T20:59:35.906231+00:00"
     },
     {
       "ticker": "ABTS",
@@ -287,10 +306,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-08-31T20:52:39.974968+00:00"
+      "timestamp": "2026-08-31T20:59:36.156770+00:00"
     }
   ],
-  "updated": "2026-08-31T20:52:39.975006+00:00",
+  "updated": "2026-08-31T20:59:36.257077+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
