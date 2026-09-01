@@ -214,25 +214,6 @@
   ],
   "signals": [
     {
-      "ticker": "ABSI",
-      "price": 9.025,
-      "change_pct": 0.11,
-      "score": 72.0,
-      "confidence": 67.7,
-      "rvol": 5.68,
-      "rsi": 79.3,
-      "vwap": 9.1894,
-      "atr": 0.1805,
-      "stop": 8.7542,
-      "target1": 9.4311,
-      "target2": 9.8372,
-      "sec_risk": 0,
-      "sec_items": [],
-      "data_status": "DELAYED_RESEARCH",
-      "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-01T05:05:27.829318+00:00"
-    },
-    {
       "ticker": "AADX",
       "price": 13.2,
       "change_pct": 0.0,
@@ -249,7 +230,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-01T05:05:27.663693+00:00"
+      "timestamp": "2026-09-01T05:19:23.911014+00:00"
     },
     {
       "ticker": "AAPD",
@@ -268,7 +249,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-01T05:05:27.478583+00:00"
+      "timestamp": "2026-09-01T05:19:23.825405+00:00"
     },
     {
       "ticker": "ABTS",
@@ -287,10 +268,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-01T05:05:28.013898+00:00"
+      "timestamp": "2026-09-01T05:19:23.987226+00:00"
     }
   ],
-  "updated": "2026-09-01T05:05:28.013935+00:00",
+  "updated": "2026-09-01T05:19:23.987265+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
