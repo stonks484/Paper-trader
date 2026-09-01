@@ -230,7 +230,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-01T05:56:12.164631+00:00"
+      "timestamp": "2026-09-01T06:06:56.334637+00:00"
     },
     {
       "ticker": "AADX",
@@ -249,7 +249,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-01T05:56:12.010198+00:00"
+      "timestamp": "2026-09-01T06:06:56.145807+00:00"
     },
     {
       "ticker": "AAPD",
@@ -268,7 +268,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-01T05:56:11.897715+00:00"
+      "timestamp": "2026-09-01T06:06:55.929928+00:00"
     },
     {
       "ticker": "ABTS",
@@ -287,10 +287,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-01T05:56:12.321941+00:00"
+      "timestamp": "2026-09-01T06:06:56.522670+00:00"
     }
   ],
-  "updated": "2026-09-01T05:56:12.321979+00:00",
+  "updated": "2026-09-01T06:06:56.522706+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
