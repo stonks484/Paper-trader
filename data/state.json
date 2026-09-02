@@ -233,12 +233,12 @@
     {
       "ticker": "ABAT",
       "price": 2.745,
-      "change_pct": 0.19,
+      "change_pct": 0.0,
       "score": 62.0,
-      "confidence": 60.1,
-      "rvol": 0.95,
-      "rsi": 58.6,
-      "vwap": 2.635,
+      "confidence": 59.4,
+      "rvol": 0.31,
+      "rsi": 56.4,
+      "vwap": 2.6361,
       "atr": 0.0549,
       "stop": 2.6626,
       "target1": 2.8685,
@@ -247,10 +247,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-02T14:43:16.634333+00:00"
+      "timestamp": "2026-09-02T14:54:21.894974+00:00"
     }
   ],
-  "updated": "2026-09-02T14:43:16.634364+00:00",
+  "updated": "2026-09-02T14:54:21.895008+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
