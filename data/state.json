@@ -246,26 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-03T11:54:58.232277+00:00"
-    },
-    {
-      "ticker": "AADX",
-      "price": 12.21,
-      "change_pct": 0.12,
-      "score": 77.0,
-      "confidence": 76.4,
-      "rvol": 4.79,
-      "rsi": 66.9,
-      "vwap": 13.082,
-      "atr": 0.2442,
-      "stop": 11.8437,
-      "target1": 12.7595,
-      "target2": 13.3089,
-      "sec_risk": 0,
-      "sec_items": [],
-      "data_status": "DELAYED_RESEARCH",
-      "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-03T11:54:58.019377+00:00"
+      "timestamp": "2026-09-03T12:03:17.931762+00:00"
     },
     {
       "ticker": "ABAT",
@@ -284,7 +265,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-03T11:54:58.095491+00:00"
+      "timestamp": "2026-09-03T12:03:17.804930+00:00"
     },
     {
       "ticker": "AAPD",
@@ -303,10 +284,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-03T11:54:57.925387+00:00"
+      "timestamp": "2026-09-03T12:03:17.728620+00:00"
     }
   ],
-  "updated": "2026-09-03T11:54:58.232314+00:00",
+  "updated": "2026-09-03T12:03:17.931797+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
