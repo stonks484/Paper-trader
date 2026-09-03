@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-03T07:42:34.722955+00:00"
+      "timestamp": "2026-09-03T07:51:42.611048+00:00"
     },
     {
       "ticker": "ABAT",
@@ -265,7 +265,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-03T07:42:34.599641+00:00"
+      "timestamp": "2026-09-03T07:51:42.525361+00:00"
     },
     {
       "ticker": "AAPD",
@@ -284,10 +284,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-03T07:42:34.519070+00:00"
+      "timestamp": "2026-09-03T07:51:42.453752+00:00"
     }
   ],
-  "updated": "2026-09-03T07:42:34.722992+00:00",
+  "updated": "2026-09-03T07:51:42.611078+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
