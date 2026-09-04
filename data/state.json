@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-04T01:23:14.137455+00:00"
+      "timestamp": "2026-09-04T01:31:38.141028+00:00"
     },
     {
       "ticker": "ABOS",
@@ -265,7 +265,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-04T01:23:14.216617+00:00"
+      "timestamp": "2026-09-04T01:31:38.209648+00:00"
     },
     {
       "ticker": "AAPD",
@@ -275,7 +275,7 @@
       "confidence": 7.7,
       "rvol": 1.07,
       "rsi": 31.6,
-      "vwap": 10.8079,
+      "vwap": 10.808,
       "atr": 0.2123,
       "stop": 10.2965,
       "target1": 11.0927,
@@ -284,10 +284,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-04T01:23:14.058645+00:00"
+      "timestamp": "2026-09-04T01:31:38.071529+00:00"
     }
   ],
-  "updated": "2026-09-04T01:23:14.216649+00:00",
+  "updated": "2026-09-04T01:31:38.209703+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
