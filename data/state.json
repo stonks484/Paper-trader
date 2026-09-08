@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-08T03:44:35.889133+00:00"
+      "timestamp": "2026-09-08T03:54:17.603770+00:00"
     },
     {
       "ticker": "AAOX",
@@ -265,7 +265,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-08T03:44:35.820447+00:00"
+      "timestamp": "2026-09-08T03:54:17.481599+00:00"
     },
     {
       "ticker": "ABTC",
@@ -284,7 +284,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-08T03:44:35.667973+00:00"
+      "timestamp": "2026-09-08T03:54:17.321883+00:00"
     },
     {
       "ticker": "AARD",
@@ -303,10 +303,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-08T03:44:35.746856+00:00"
+      "timestamp": "2026-09-08T03:54:17.402057+00:00"
     }
   ],
-  "updated": "2026-09-08T03:44:35.889166+00:00",
+  "updated": "2026-09-08T03:54:17.603811+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
