@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-09T12:00:14.348915+00:00"
+      "timestamp": "2026-09-09T12:23:35.291918+00:00"
     },
     {
       "ticker": "AAOG",
@@ -265,7 +265,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-09T12:00:14.190557+00:00"
+      "timestamp": "2026-09-09T12:23:35.066771+00:00"
     },
     {
       "ticker": "AAOX",
@@ -284,10 +284,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-09T12:00:14.272150+00:00"
+      "timestamp": "2026-09-09T12:23:35.139344+00:00"
     }
   ],
-  "updated": "2026-09-09T12:00:14.348948+00:00",
+  "updated": "2026-09-09T12:23:35.291956+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
