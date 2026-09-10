@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-10T22:16:08.004581+00:00"
+      "timestamp": "2026-09-10T22:26:07.971033+00:00"
     },
     {
       "ticker": "AAPD",
@@ -265,10 +265,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-10T22:16:07.876241+00:00"
+      "timestamp": "2026-09-10T22:26:07.893548+00:00"
     }
   ],
-  "updated": "2026-09-10T22:16:08.004612+00:00",
+  "updated": "2026-09-10T22:26:07.971068+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
