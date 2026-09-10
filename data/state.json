@@ -231,25 +231,25 @@
   "signals": [
     {
       "ticker": "AAPD",
-      "price": 10.68,
-      "change_pct": -0.05,
+      "price": 10.6818,
+      "change_pct": -0.08,
       "score": 17.0,
-      "confidence": 5.2,
-      "rvol": 0.47,
-      "rsi": 25.7,
-      "vwap": 10.8955,
+      "confidence": 5.8,
+      "rvol": 0.0,
+      "rsi": 27.6,
+      "vwap": 10.895,
       "atr": 0.2136,
-      "stop": 10.3596,
-      "target1": 11.1606,
-      "target2": 11.6412,
+      "stop": 10.3613,
+      "target1": 11.1625,
+      "target2": 11.6432,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-10T19:17:13.288239+00:00"
+      "timestamp": "2026-09-10T19:25:50.929391+00:00"
     }
   ],
-  "updated": "2026-09-10T19:17:13.288268+00:00",
+  "updated": "2026-09-10T19:25:50.929418+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
