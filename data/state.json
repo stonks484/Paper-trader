@@ -246,29 +246,29 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-11T18:46:40.452713+00:00"
+      "timestamp": "2026-09-11T18:54:49.282159+00:00"
     },
     {
       "ticker": "AADX",
-      "price": 12.17,
-      "change_pct": -0.29,
+      "price": 12.175,
+      "change_pct": 0.0,
       "score": 17.0,
-      "confidence": 6.7,
-      "rvol": 0.45,
-      "rsi": 30.5,
-      "vwap": 12.2792,
-      "atr": 0.2434,
-      "stop": 11.8049,
-      "target1": 12.7177,
-      "target2": 13.2653,
+      "confidence": 5.6,
+      "rvol": 1.0,
+      "rsi": 27.0,
+      "vwap": 12.2788,
+      "atr": 0.2435,
+      "stop": 11.8098,
+      "target1": 12.7229,
+      "target2": 13.2708,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-11T18:46:40.625165+00:00"
+      "timestamp": "2026-09-11T18:54:49.480070+00:00"
     }
   ],
-  "updated": "2026-09-11T18:46:40.625201+00:00",
+  "updated": "2026-09-11T18:54:49.480108+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
