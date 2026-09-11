@@ -231,25 +231,25 @@
   "signals": [
     {
       "ticker": "ABTC",
-      "price": 8.505,
-      "change_pct": 0.18,
+      "price": 8.4502,
+      "change_pct": -0.35,
       "score": 27.0,
-      "confidence": 20.8,
-      "rvol": 0.05,
-      "rsi": 44.4,
-      "vwap": 8.2179,
-      "atr": 0.1701,
-      "stop": 8.2499,
-      "target1": 8.8877,
-      "target2": 9.2705,
+      "confidence": 20.1,
+      "rvol": 0.13,
+      "rsi": 42.0,
+      "vwap": 8.2188,
+      "atr": 0.169,
+      "stop": 8.1967,
+      "target1": 8.8305,
+      "target2": 9.2107,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-11T16:44:38.333852+00:00"
+      "timestamp": "2026-09-11T16:52:34.184704+00:00"
     }
   ],
-  "updated": "2026-09-11T16:44:38.333882+00:00",
+  "updated": "2026-09-11T16:52:34.184737+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
