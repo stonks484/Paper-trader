@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-13T07:54:32.552579+00:00"
+      "timestamp": "2026-09-13T08:01:35.408567+00:00"
     },
     {
       "ticker": "AADX",
@@ -265,10 +265,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-13T07:54:32.650173+00:00"
+      "timestamp": "2026-09-13T08:01:35.522478+00:00"
     }
   ],
-  "updated": "2026-09-13T07:54:32.650207+00:00",
+  "updated": "2026-09-13T08:01:35.522515+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
