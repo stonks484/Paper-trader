@@ -231,25 +231,25 @@
   "signals": [
     {
       "ticker": "AARD",
-      "price": 5.5,
-      "change_pct": -0.63,
+      "price": 5.685,
+      "change_pct": -0.09,
       "score": 62.0,
-      "confidence": 61.1,
-      "rvol": 0.0,
-      "rsi": 68.0,
-      "vwap": 5.1039,
-      "atr": 0.1314,
-      "stop": 5.3029,
-      "target1": 5.7957,
-      "target2": 6.0914,
+      "confidence": 58.2,
+      "rvol": 0.42,
+      "rsi": 77.6,
+      "vwap": 5.11,
+      "atr": 0.1404,
+      "stop": 5.4745,
+      "target1": 6.0008,
+      "target2": 6.3166,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-14T15:20:49.659940+00:00"
+      "timestamp": "2026-09-14T15:35:27.287750+00:00"
     }
   ],
-  "updated": "2026-09-14T15:20:49.659975+00:00",
+  "updated": "2026-09-14T15:35:27.287783+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
