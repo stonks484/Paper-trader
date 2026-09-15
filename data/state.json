@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-15T13:03:57.274414+00:00"
+      "timestamp": "2026-09-15T13:20:42.452476+00:00"
     },
     {
       "ticker": "ABAT",
@@ -265,10 +265,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-15T13:03:57.031702+00:00"
+      "timestamp": "2026-09-15T13:20:42.351796+00:00"
     }
   ],
-  "updated": "2026-09-15T13:03:57.274448+00:00",
+  "updated": "2026-09-15T13:20:42.452512+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
