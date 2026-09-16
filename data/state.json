@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-16T00:44:49.037791+00:00"
+      "timestamp": "2026-09-16T00:56:18.004813+00:00"
     },
     {
       "ticker": "AARD",
@@ -265,10 +265,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-16T00:44:49.166403+00:00"
+      "timestamp": "2026-09-16T00:56:18.125281+00:00"
     }
   ],
-  "updated": "2026-09-16T00:44:49.166440+00:00",
+  "updated": "2026-09-16T00:56:18.125315+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
