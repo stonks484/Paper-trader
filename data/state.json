@@ -231,25 +231,25 @@
   "signals": [
     {
       "ticker": "AAL",
-      "price": 12.675,
-      "change_pct": 0.13,
-      "score": 17.0,
-      "confidence": 9.7,
-      "rvol": 0.55,
-      "rsi": 40.6,
-      "vwap": 12.9106,
-      "atr": 0.2535,
-      "stop": 12.2948,
-      "target1": 13.2454,
-      "target2": 13.8158,
+      "price": 12.755,
+      "change_pct": -0.12,
+      "score": 35.0,
+      "confidence": 31.0,
+      "rvol": 0.0,
+      "rsi": 51.8,
+      "vwap": 12.9094,
+      "atr": 0.2551,
+      "stop": 12.3724,
+      "target1": 13.329,
+      "target2": 13.903,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-16T19:48:22.414377+00:00"
+      "timestamp": "2026-09-16T19:55:11.871551+00:00"
     }
   ],
-  "updated": "2026-09-16T19:48:22.414414+00:00",
+  "updated": "2026-09-16T19:55:11.871582+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
