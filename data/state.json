@@ -229,7 +229,7 @@
     }
   ],
   "signals": [],
-  "updated": "2026-09-16T17:37:08.520129+00:00",
+  "updated": "2026-09-16T17:47:09.749388+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
