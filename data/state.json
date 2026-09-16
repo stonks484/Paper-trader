@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-16T10:33:09.465331+00:00"
+      "timestamp": "2026-09-16T10:45:34.388470+00:00"
     },
     {
       "ticker": "ABEO",
@@ -265,10 +265,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-16T10:33:09.397277+00:00"
+      "timestamp": "2026-09-16T10:45:34.308816+00:00"
     }
   ],
-  "updated": "2026-09-16T10:33:09.465363+00:00",
+  "updated": "2026-09-16T10:45:34.388503+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
