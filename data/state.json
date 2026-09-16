@@ -228,8 +228,47 @@
       "time": "2026-09-02T21:16:07.963052+00:00"
     }
   ],
-  "signals": [],
-  "updated": "2026-09-16T16:53:12.104375+00:00",
+  "signals": [
+    {
+      "ticker": "AAOG",
+      "price": 2.03,
+      "change_pct": 0.5,
+      "score": 30.0,
+      "confidence": 22.0,
+      "rvol": 0.0,
+      "rsi": 38.5,
+      "vwap": 2.1921,
+      "atr": 0.0406,
+      "stop": 1.9691,
+      "target1": 2.1213,
+      "target2": 2.2127,
+      "sec_risk": 0,
+      "sec_items": [],
+      "data_status": "DELAYED_RESEARCH",
+      "small_cap_status": "UNVERIFIED_FREE_DATA",
+      "timestamp": "2026-09-16T17:00:20.069392+00:00"
+    },
+    {
+      "ticker": "AAOX",
+      "price": 9.1,
+      "change_pct": 0.0,
+      "score": 17.0,
+      "confidence": 5.0,
+      "rvol": 0.12,
+      "rsi": 25.1,
+      "vwap": 9.7216,
+      "atr": 0.182,
+      "stop": 8.827,
+      "target1": 9.5095,
+      "target2": 9.919,
+      "sec_risk": 0,
+      "sec_items": [],
+      "data_status": "DELAYED_RESEARCH",
+      "small_cap_status": "UNVERIFIED_FREE_DATA",
+      "timestamp": "2026-09-16T17:00:19.953204+00:00"
+    }
+  ],
+  "updated": "2026-09-16T17:00:20.069436+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
