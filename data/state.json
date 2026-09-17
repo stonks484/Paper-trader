@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-17T01:01:24.938746+00:00"
+      "timestamp": "2026-09-17T01:17:42.211283+00:00"
     },
     {
       "ticker": "AADX",
@@ -265,10 +265,29 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-17T01:01:25.042435+00:00"
+      "timestamp": "2026-09-17T01:17:42.405135+00:00"
+    },
+    {
+      "ticker": "AAL",
+      "price": 12.71,
+      "change_pct": -0.47,
+      "score": 39.4,
+      "confidence": 34.2,
+      "rvol": 1.44,
+      "rsi": 47.9,
+      "vwap": 12.9079,
+      "atr": 0.2542,
+      "stop": 12.3287,
+      "target1": 13.282,
+      "target2": 13.8539,
+      "sec_risk": 0,
+      "sec_items": [],
+      "data_status": "DELAYED_RESEARCH",
+      "small_cap_status": "UNVERIFIED_FREE_DATA",
+      "timestamp": "2026-09-17T01:17:42.056937+00:00"
     }
   ],
-  "updated": "2026-09-17T01:01:25.042470+00:00",
+  "updated": "2026-09-17T01:17:42.405181+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
