@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-17T01:17:42.211283+00:00"
+      "timestamp": "2026-09-17T01:29:37.719667+00:00"
     },
     {
       "ticker": "AADX",
@@ -265,7 +265,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-17T01:17:42.405135+00:00"
+      "timestamp": "2026-09-17T01:29:37.835366+00:00"
     },
     {
       "ticker": "AAL",
@@ -284,10 +284,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-17T01:17:42.056937+00:00"
+      "timestamp": "2026-09-17T01:29:37.615839+00:00"
     }
   ],
-  "updated": "2026-09-17T01:17:42.405181+00:00",
+  "updated": "2026-09-17T01:29:37.835424+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
