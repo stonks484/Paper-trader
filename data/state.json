@@ -246,7 +246,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-17T12:52:21.927152+00:00"
+      "timestamp": "2026-09-17T13:01:46.406213+00:00"
     },
     {
       "ticker": "AAL",
@@ -265,10 +265,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-17T12:52:21.849591+00:00"
+      "timestamp": "2026-09-17T13:01:46.284932+00:00"
     }
   ],
-  "updated": "2026-09-17T12:52:21.927191+00:00",
+  "updated": "2026-09-17T13:01:46.406245+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
