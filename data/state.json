@@ -261,26 +261,26 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.469621+00:00"
+      "timestamp": "2026-09-19T00:15:26.518907+00:00"
     },
     {
-      "ticker": "AAOG",
-      "price": 2.3201,
-      "change_pct": 0.87,
-      "score": 80.1,
-      "confidence": 76.3,
-      "rvol": 1.51,
-      "rsi": 77.4,
-      "vwap": 2.064,
-      "atr": 0.0464,
-      "stop": 2.2505,
-      "target1": 2.4245,
-      "target2": 2.5289,
+      "ticker": "ABCL",
+      "price": 12.65,
+      "change_pct": 0.96,
+      "score": 87.0,
+      "confidence": 83.4,
+      "rvol": 8.02,
+      "rsi": 52.9,
+      "vwap": 12.0207,
+      "atr": 0.253,
+      "stop": 12.2705,
+      "target1": 13.2192,
+      "target2": 13.7885,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.830016+00:00"
+      "timestamp": "2026-09-19T00:15:27.421149+00:00"
     },
     {
       "ticker": "ABR",
@@ -299,45 +299,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.319222+00:00"
-    },
-    {
-      "ticker": "ABOS",
-      "price": 2.63,
-      "change_pct": -0.75,
-      "score": 77.0,
-      "confidence": 76.0,
-      "rvol": 9.53,
-      "rsi": 68.2,
-      "vwap": 2.7207,
-      "atr": 0.0526,
-      "stop": 2.5511,
-      "target1": 2.7484,
-      "target2": 2.8667,
-      "sec_risk": 0,
-      "sec_items": [],
-      "data_status": "DELAYED_RESEARCH",
-      "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.542942+00:00"
-    },
-    {
-      "ticker": "AAOX",
-      "price": 10.44,
-      "change_pct": 0.68,
-      "score": 76.3,
-      "confidence": 72.7,
-      "rvol": 2.43,
-      "rsi": 77.0,
-      "vwap": 9.3221,
-      "atr": 0.2088,
-      "stop": 10.1268,
-      "target1": 10.9098,
-      "target2": 11.3796,
-      "sec_risk": 0,
-      "sec_items": [],
-      "data_status": "DELAYED_RESEARCH",
-      "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.751086+00:00"
+      "timestamp": "2026-09-19T00:15:27.208283+00:00"
     },
     {
       "ticker": "ABTC",
@@ -356,7 +318,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.403545+00:00"
+      "timestamp": "2026-09-19T00:15:27.747741+00:00"
     },
     {
       "ticker": "ABEO",
@@ -375,26 +337,26 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.618938+00:00"
+      "timestamp": "2026-09-19T00:15:26.829686+00:00"
     },
     {
-      "ticker": "AADX",
-      "price": 12.78,
-      "change_pct": 0.59,
-      "score": 52.0,
-      "confidence": 45.7,
-      "rvol": 5.08,
-      "rsi": 44.1,
-      "vwap": 12.4878,
-      "atr": 0.2556,
-      "stop": 12.3966,
-      "target1": 13.3551,
-      "target2": 13.9302,
+      "ticker": "AARD",
+      "price": 5.36,
+      "change_pct": -1.29,
+      "score": 47.0,
+      "confidence": 42.2,
+      "rvol": 4.8,
+      "rsi": 48.9,
+      "vwap": 5.429,
+      "atr": 0.1072,
+      "stop": 5.1992,
+      "target1": 5.6012,
+      "target2": 5.8424,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.245182+00:00"
+      "timestamp": "2026-09-19T00:15:27.052643+00:00"
     },
     {
       "ticker": "ABAT",
@@ -413,10 +375,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-18T22:08:27.685836+00:00"
+      "timestamp": "2026-09-19T00:15:27.931539+00:00"
     }
   ],
-  "updated": "2026-09-18T22:08:27.830058+00:00",
+  "updated": "2026-09-19T00:15:27.931566+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
