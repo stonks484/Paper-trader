@@ -246,25 +246,25 @@
   "signals": [
     {
       "ticker": "ABLV",
-      "price": 1.2394,
-      "change_pct": -1.65,
-      "score": 65.0,
-      "confidence": 62.3,
-      "rvol": 4.96,
-      "rsi": 56.0,
-      "vwap": 1.2626,
-      "atr": 0.0419,
-      "stop": 1.1765,
-      "target1": 1.3337,
-      "target2": 1.428,
+      "price": 1.54,
+      "change_pct": 3.36,
+      "score": 62.0,
+      "confidence": 58.8,
+      "rvol": 0.0,
+      "rsi": 54.4,
+      "vwap": 1.3215,
+      "atr": 0.056,
+      "stop": 1.4561,
+      "target1": 1.6659,
+      "target2": 1.7918,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-09-28T07:31:01.119085+00:00"
+      "timestamp": "2026-09-28T15:48:04.873991+00:00"
     }
   ],
-  "updated": "2026-09-28T07:31:01.119109+00:00",
+  "updated": "2026-09-28T15:48:04.874018+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
