@@ -261,7 +261,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-11T13:21:20.150044+00:00"
+      "timestamp": "2026-10-11T18:10:18.857989+00:00"
     },
     {
       "ticker": "ABLV",
@@ -280,7 +280,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-11T13:21:20.692851+00:00"
+      "timestamp": "2026-10-11T18:10:19.367048+00:00"
     },
     {
       "ticker": "ABSI",
@@ -299,7 +299,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-11T13:21:20.617723+00:00"
+      "timestamp": "2026-10-11T18:10:19.283081+00:00"
     },
     {
       "ticker": "ABR",
@@ -318,7 +318,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-11T13:21:20.285614+00:00"
+      "timestamp": "2026-10-11T18:10:18.983361+00:00"
     },
     {
       "ticker": "AAOX",
@@ -337,7 +337,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-11T13:21:20.365811+00:00"
+      "timestamp": "2026-10-11T18:10:19.075577+00:00"
     },
     {
       "ticker": "AAOG",
@@ -356,10 +356,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-11T13:21:20.512569+00:00"
+      "timestamp": "2026-10-11T18:10:19.163799+00:00"
     }
   ],
-  "updated": "2026-10-11T13:21:20.692880+00:00",
+  "updated": "2026-10-11T18:10:19.367078+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
