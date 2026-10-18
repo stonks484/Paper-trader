@@ -252,7 +252,7 @@
       "confidence": 76.9,
       "rvol": 2.82,
       "rsi": 54.0,
-      "vwap": 15.0512,
+      "vwap": 14.9792,
       "atr": 0.3924,
       "stop": 19.0314,
       "target1": 20.5029,
@@ -261,7 +261,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-18T09:07:49.343786+00:00"
+      "timestamp": "2026-10-18T13:12:45.704307+00:00"
     },
     {
       "ticker": "AADX",
@@ -271,7 +271,7 @@
       "confidence": 72.0,
       "rvol": 6.04,
       "rsi": 54.9,
-      "vwap": 11.0871,
+      "vwap": 11.0782,
       "atr": 0.2277,
       "stop": 11.0435,
       "target1": 11.8973,
@@ -280,7 +280,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-18T09:07:49.072040+00:00"
+      "timestamp": "2026-10-18T13:12:45.473313+00:00"
     },
     {
       "ticker": "AAOX",
@@ -299,10 +299,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-18T09:07:49.210457+00:00"
+      "timestamp": "2026-10-18T13:12:45.576035+00:00"
     }
   ],
-  "updated": "2026-10-18T09:07:49.343812+00:00",
+  "updated": "2026-10-18T13:12:45.704341+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
