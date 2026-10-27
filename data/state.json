@@ -248,11 +248,11 @@
       "ticker": "AARD",
       "price": 1.08,
       "change_pct": 1.41,
-      "score": 71.5,
-      "confidence": 71.3,
-      "rvol": 2.85,
+      "score": 71.9,
+      "confidence": 71.7,
+      "rvol": 2.89,
       "rsi": 64.3,
-      "vwap": 1.9145,
+      "vwap": 1.9153,
       "atr": 0.0216,
       "stop": 1.0476,
       "target1": 1.1286,
@@ -261,17 +261,17 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-26T23:11:22.433672+00:00"
+      "timestamp": "2026-10-27T02:02:30.270025+00:00"
     },
     {
       "ticker": "ABEV",
       "price": 2.835,
       "change_pct": 0.0,
-      "score": 40.0,
-      "confidence": 39.1,
-      "rvol": 0.47,
+      "score": 52.8,
+      "confidence": 51.9,
+      "rvol": 2.28,
       "rsi": 68.1,
-      "vwap": 3.0474,
+      "vwap": 3.1004,
       "atr": 0.0567,
       "stop": 2.75,
       "target1": 2.9626,
@@ -280,7 +280,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-26T23:11:22.642194+00:00"
+      "timestamp": "2026-10-27T02:02:30.401261+00:00"
     },
     {
       "ticker": "ABOS",
@@ -299,7 +299,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-26T23:11:22.794138+00:00"
+      "timestamp": "2026-10-27T02:02:30.604503+00:00"
     },
     {
       "ticker": "AAPD",
@@ -318,17 +318,17 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-26T23:11:22.986828+00:00"
+      "timestamp": "2026-10-27T02:02:30.744234+00:00"
     },
     {
       "ticker": "AAOX",
       "price": 4.25,
       "change_pct": -1.05,
-      "score": 17.0,
-      "confidence": 1.0,
-      "rvol": 0.26,
+      "score": 32.3,
+      "confidence": 16.3,
+      "rvol": 2.53,
       "rsi": 11.5,
-      "vwap": 4.4204,
+      "vwap": 4.459,
       "atr": 0.085,
       "stop": 4.1225,
       "target1": 4.4413,
@@ -337,10 +337,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-26T23:11:23.140564+00:00"
+      "timestamp": "2026-10-27T02:02:30.875657+00:00"
     }
   ],
-  "updated": "2026-10-26T23:11:23.140586+00:00",
+  "updated": "2026-10-27T02:02:30.875684+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
