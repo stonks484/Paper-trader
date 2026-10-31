@@ -261,7 +261,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-31T12:58:52.724431+00:00"
+      "timestamp": "2026-10-31T17:37:42.189780+00:00"
     },
     {
       "ticker": "ABR",
@@ -280,7 +280,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-31T12:58:52.396013+00:00"
+      "timestamp": "2026-10-31T17:37:42.010521+00:00"
     },
     {
       "ticker": "AAPD",
@@ -299,10 +299,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-10-31T12:58:52.564391+00:00"
+      "timestamp": "2026-10-31T17:37:42.100933+00:00"
     }
   ],
-  "updated": "2026-10-31T12:58:52.724462+00:00",
+  "updated": "2026-10-31T17:37:42.189808+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
