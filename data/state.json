@@ -245,6 +245,25 @@
   ],
   "signals": [
     {
+      "ticker": "AADX",
+      "price": 9.29,
+      "change_pct": 0.54,
+      "score": 65.0,
+      "confidence": 64.0,
+      "rvol": 4.24,
+      "rsi": 61.7,
+      "vwap": 9.4598,
+      "atr": 0.1858,
+      "stop": 9.0113,
+      "target1": 9.708,
+      "target2": 10.1261,
+      "sec_risk": 0,
+      "sec_items": [],
+      "data_status": "DELAYED_RESEARCH",
+      "small_cap_status": "UNVERIFIED_FREE_DATA",
+      "timestamp": "2026-11-12T04:08:34.472407+00:00"
+    },
+    {
       "ticker": "ABEO",
       "price": 2.29,
       "change_pct": 0.66,
@@ -261,26 +280,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-11T23:37:00.497354+00:00"
-    },
-    {
-      "ticker": "AADX",
-      "price": 9.29,
-      "change_pct": 0.54,
-      "score": 42.5,
-      "confidence": 41.5,
-      "rvol": 1.25,
-      "rsi": 61.7,
-      "vwap": 9.4237,
-      "atr": 0.1858,
-      "stop": 9.0113,
-      "target1": 9.708,
-      "target2": 10.1261,
-      "sec_risk": 0,
-      "sec_items": [],
-      "data_status": "DELAYED_RESEARCH",
-      "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-11T23:37:00.621255+00:00"
+      "timestamp": "2026-11-12T04:08:34.335892+00:00"
     },
     {
       "ticker": "AAOX",
@@ -290,7 +290,7 @@
       "confidence": 22.2,
       "rvol": 1.47,
       "rsi": 33.3,
-      "vwap": 1.8897,
+      "vwap": 1.7992,
       "atr": 0.0435,
       "stop": 2.1097,
       "target1": 2.2729,
@@ -299,7 +299,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-11T23:37:00.748078+00:00"
+      "timestamp": "2026-11-12T04:08:34.622068+00:00"
     },
     {
       "ticker": "AARD",
@@ -318,10 +318,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-11T23:37:00.842796+00:00"
+      "timestamp": "2026-11-12T04:08:34.828588+00:00"
     }
   ],
-  "updated": "2026-11-11T23:37:00.842823+00:00",
+  "updated": "2026-11-12T04:08:34.828610+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
