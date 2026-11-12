@@ -252,7 +252,7 @@
       "confidence": 64.0,
       "rvol": 4.24,
       "rsi": 61.7,
-      "vwap": 9.4598,
+      "vwap": 9.5285,
       "atr": 0.1858,
       "stop": 9.0113,
       "target1": 9.708,
@@ -261,7 +261,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-12T04:08:34.472407+00:00"
+      "timestamp": "2026-11-12T12:35:35.860461+00:00"
     },
     {
       "ticker": "ABEO",
@@ -280,7 +280,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-12T04:08:34.335892+00:00"
+      "timestamp": "2026-11-12T12:35:35.730175+00:00"
     },
     {
       "ticker": "AAOX",
@@ -290,7 +290,7 @@
       "confidence": 22.2,
       "rvol": 1.47,
       "rsi": 33.3,
-      "vwap": 1.7992,
+      "vwap": 1.8391,
       "atr": 0.0435,
       "stop": 2.1097,
       "target1": 2.2729,
@@ -299,7 +299,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-12T04:08:34.622068+00:00"
+      "timestamp": "2026-11-12T12:35:36.002979+00:00"
     },
     {
       "ticker": "AARD",
@@ -318,10 +318,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-12T04:08:34.828588+00:00"
+      "timestamp": "2026-11-12T12:35:36.185098+00:00"
     }
   ],
-  "updated": "2026-11-12T04:08:34.828610+00:00",
+  "updated": "2026-11-12T12:35:36.185126+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
