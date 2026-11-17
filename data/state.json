@@ -261,7 +261,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-17T01:53:47.606851+00:00"
+      "timestamp": "2026-11-17T09:45:44.256919+00:00"
     },
     {
       "ticker": "ABAT",
@@ -280,29 +280,48 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-17T01:53:47.526328+00:00"
+      "timestamp": "2026-11-17T09:45:43.930504+00:00"
     },
     {
-      "ticker": "AAME",
-      "price": 1.17,
-      "change_pct": 0.86,
-      "score": 22.1,
-      "confidence": 12.0,
-      "rvol": 1.51,
-      "rsi": 31.2,
-      "vwap": 1.2434,
-      "atr": 0.0234,
-      "stop": 1.1349,
-      "target1": 1.2226,
-      "target2": 1.2753,
+      "ticker": "ABSI",
+      "price": 7.475,
+      "change_pct": -0.8,
+      "score": 42.0,
+      "confidence": 25.9,
+      "rvol": 6.01,
+      "rsi": 11.3,
+      "vwap": 8.9913,
+      "atr": 0.1495,
+      "stop": 7.2507,
+      "target1": 7.8114,
+      "target2": 8.1477,
       "sec_risk": 0,
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-17T01:53:47.677930+00:00"
+      "timestamp": "2026-11-17T09:45:44.014031+00:00"
+    },
+    {
+      "ticker": "AADX",
+      "price": 6.805,
+      "change_pct": 0.0,
+      "score": 34.5,
+      "confidence": 26.0,
+      "rvol": 2.75,
+      "rsi": 36.8,
+      "vwap": 8.7403,
+      "atr": 0.1361,
+      "stop": 6.6008,
+      "target1": 7.1112,
+      "target2": 7.4174,
+      "sec_risk": 0,
+      "sec_items": [],
+      "data_status": "DELAYED_RESEARCH",
+      "small_cap_status": "UNVERIFIED_FREE_DATA",
+      "timestamp": "2026-11-17T09:45:44.099132+00:00"
     }
   ],
-  "updated": "2026-11-17T01:53:47.677957+00:00",
+  "updated": "2026-11-17T09:45:44.256951+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
