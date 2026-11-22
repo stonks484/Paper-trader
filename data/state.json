@@ -261,7 +261,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-22T15:33:16.903211+00:00"
+      "timestamp": "2026-11-22T21:11:11.761557+00:00"
     },
     {
       "ticker": "AADX",
@@ -280,7 +280,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-22T15:33:17.000530+00:00"
+      "timestamp": "2026-11-22T21:11:11.900368+00:00"
     },
     {
       "ticker": "AAUC",
@@ -299,7 +299,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-22T15:33:17.093781+00:00"
+      "timestamp": "2026-11-22T21:11:12.070114+00:00"
     },
     {
       "ticker": "ABEO",
@@ -318,10 +318,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-22T15:33:16.806653+00:00"
+      "timestamp": "2026-11-22T21:11:11.613313+00:00"
     }
   ],
-  "updated": "2026-11-22T15:33:17.093813+00:00",
+  "updated": "2026-11-22T21:11:12.070139+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
