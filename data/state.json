@@ -261,7 +261,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-23T21:41:01.593553+00:00"
+      "timestamp": "2026-11-24T05:30:53.436460+00:00"
     },
     {
       "ticker": "ABSI",
@@ -269,7 +269,7 @@
       "change_pct": -0.53,
       "score": 87.0,
       "confidence": 83.4,
-      "rvol": 6.83,
+      "rvol": 6.82,
       "rsi": 52.9,
       "vwap": 8.0199,
       "atr": 0.1696,
@@ -280,7 +280,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-23T21:41:01.291161+00:00"
+      "timestamp": "2026-11-24T05:30:54.007315+00:00"
     },
     {
       "ticker": "ABR",
@@ -290,7 +290,7 @@
       "confidence": 67.5,
       "rvol": 4.8,
       "rsi": 50.0,
-      "vwap": 1.1302,
+      "vwap": 1.1351,
       "atr": 0.0222,
       "stop": 1.0767,
       "target1": 1.16,
@@ -299,7 +299,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-23T21:41:01.445275+00:00"
+      "timestamp": "2026-11-24T05:30:54.202483+00:00"
     },
     {
       "ticker": "ABCL",
@@ -318,7 +318,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-23T21:41:01.174787+00:00"
+      "timestamp": "2026-11-24T05:30:53.824841+00:00"
     },
     {
       "ticker": "AAUC",
@@ -328,7 +328,7 @@
       "confidence": 34.0,
       "rvol": 4.27,
       "rsi": 38.2,
-      "vwap": 18.9807,
+      "vwap": 19.0263,
       "atr": 0.3716,
       "stop": 18.0226,
       "target1": 19.4161,
@@ -337,7 +337,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-23T21:41:00.893639+00:00"
+      "timestamp": "2026-11-24T05:30:53.247204+00:00"
     },
     {
       "ticker": "AAL",
@@ -356,10 +356,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-23T21:41:01.010424+00:00"
+      "timestamp": "2026-11-24T05:30:53.626046+00:00"
     }
   ],
-  "updated": "2026-11-23T21:41:01.593595+00:00",
+  "updated": "2026-11-24T05:30:54.202509+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
