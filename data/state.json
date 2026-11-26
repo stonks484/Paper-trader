@@ -261,7 +261,7 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-26T10:48:04.815709+00:00"
+      "timestamp": "2026-11-26T19:51:30.992314+00:00"
     },
     {
       "ticker": "ABR",
@@ -280,10 +280,10 @@
       "sec_items": [],
       "data_status": "DELAYED_RESEARCH",
       "small_cap_status": "UNVERIFIED_FREE_DATA",
-      "timestamp": "2026-11-26T10:48:04.977795+00:00"
+      "timestamp": "2026-11-26T19:51:31.081965+00:00"
     }
   ],
-  "updated": "2026-11-26T10:48:04.977831+00:00",
+  "updated": "2026-11-26T19:51:31.082007+00:00",
   "data_source": "Yahoo Finance + SEC EDGAR + Nasdaq Trader",
   "data_status": "DELAYED_RESEARCH",
   "free_only": true
